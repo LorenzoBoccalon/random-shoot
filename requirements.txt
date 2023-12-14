@@ -1,3 +1,6 @@
-pandas
 matplotlib
 notebook
+pandas
+scikit-image
+scikit-learn
+torch
