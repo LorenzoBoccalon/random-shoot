@@ -1,0 +1,2 @@
+- check if scans without tumors where dropped
+- classes OHE and stratified dataset splitting
